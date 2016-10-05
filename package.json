@@ -1,6 +1,6 @@
 {
-  "name": "node-school",
-  "version": "0.0.3",
+  "name": "@mkhrystunov/node-school",
+  "version": "0.0.4",
   "description": "Passing tutorials from http://nodeschool.io",
   "repository": {
     "type": "git",
