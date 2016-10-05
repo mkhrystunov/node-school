@@ -1,0 +1,13 @@
+{
+  "name": "node-school",
+  "version": "0.0.1",
+  "description": "Passing tutorials from http://nodeschool.io",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mkhrystunov/node-school.git"
+  },
+  "author": "Maksym Khrystunov",
+  "dependencies": {
+    "bl": "^1.1.2"
+  }
+}
