@@ -9,6 +9,7 @@
     "sourceType": "module"
   },
   "rules": {
+    "strict": 0,
     "indent": [
       "error",
       4,

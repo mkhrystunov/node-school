@@ -28,6 +28,8 @@
   "devDependencies": {},
   "jshintConfig": {
     "esversion": 6,
-    "quotmark": "single"
+    "quotmark": "single",
+    "node": true,
+    "undef": true
   }
 }
