@@ -25,5 +25,9 @@
     "url": "https://github.com/mkhrystunov/node-school/issues"
   },
   "homepage": "https://github.com/mkhrystunov/node-school#readme",
-  "devDependencies": {}
+  "devDependencies": {},
+  "jshintConfig": {
+    "esversion": 6,
+    "quotmark": "single"
+  }
 }

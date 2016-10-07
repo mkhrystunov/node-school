@@ -5,7 +5,7 @@ function repeat(operation, num) {
         }
         operation();
         return repeat(operation, --num);
-    }
+    };
 }
 
 function trampoline(fn) {

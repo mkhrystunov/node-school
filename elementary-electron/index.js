@@ -16,14 +16,14 @@ let save = () => {
             } else {
                 alert('Pdf is saved');
             }
-        })
-    })
+        });
+    });
 };
 
 let src = picture.src;
 picture.remove();
 
-let viz = new image('#visualization', null, [src], {hullAlgorithm: 'convex'});
+new image('#visualization', null, [src], {hullAlgorithm: 'convex'});
 
 window.addEventListener('keydown', (e) => {
     if (e.keyCode === 80) {

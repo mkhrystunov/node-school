@@ -8,7 +8,7 @@ module.exports = function repeat (operation, num) {
     // release control every 20 or so iterations
     if (num % 20 === 0) {
         setTimeout(function () {
-            repeat(operation, --num)
+            repeat(operation, --num);
         }, 0);
     } else {
         repeat(operation, --num);
