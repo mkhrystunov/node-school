@@ -3,7 +3,7 @@ module.exports = (db, dateString, callback) => {
     let nextDateString = date.setDate(date.getDate() + 1).toISOString();
 
     let twits = [];
-    db.createReadStream({start: dateString, end: nextDateString})
+    db.createReadStream({gte: dateString, lte: nextDateString})
         .on('data', (data) => {
             twits.push(data.value);
         })
