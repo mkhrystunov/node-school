@@ -16,6 +16,7 @@
     "body-parser": "^1.15.2",
     "bunyan": "^1.8.1",
     "express": "^4.14.0",
+    "handlebars": "^4.0.5",
     "hapi": "^15.1.1",
     "inert": "^4.0.2",
     "jade": "^1.11.0",
@@ -26,7 +27,8 @@
     "strftime": "^0.9.2",
     "stylus": "^0.54.5",
     "through2": "^2.0.1",
-    "through2-map": "^2.0.0"
+    "through2-map": "^2.0.0",
+    "vision": "^4.1.0"
   },
   "bugs": {
     "url": "https://github.com/mkhrystunov/node-school/issues"
