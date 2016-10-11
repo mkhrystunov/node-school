@@ -30,6 +30,7 @@
     "rot13-transform": "^1.0.0",
     "split": "^1.0.0",
     "stackup": "^1.0.1",
+    "stream-combiner": "^0.2.2",
     "strftime": "^0.9.2",
     "stylus": "^0.54.5",
     "through2": "^2.0.1",
