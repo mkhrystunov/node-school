@@ -27,6 +27,7 @@
     "level": "^1.4.0",
     "level-sublevel": "^6.6.0",
     "multilevel": "^7.3.0",
+    "quote-stream": "^1.0.2",
     "rot13-transform": "^1.0.0",
     "split": "^1.0.0",
     "stackup": "^1.0.1",
