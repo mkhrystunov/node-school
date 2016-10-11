@@ -6,7 +6,9 @@
   "author": "Maksym Khrystunov <mkhrystunov@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "brfs": "^1.4.3",
     "domify": "^1.4.0",
+    "sprintf": "^0.1.5",
     "uniq": "^1.0.1"
   },
   "jshintConfig": {
