@@ -1,0 +1,14 @@
+{
+  "name": "browserify-adventure",
+  "version": "0.0.1",
+  "description": "Worckshop from http://nodeschool.io about browserify",
+  "main": "app.js",
+  "author": "Maksym Khrystunov <mkhrystunov@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "uniq": "^1.0.1"
+  },
+  "jshintConfig": {
+    "esversion": 6
+  }
+}
