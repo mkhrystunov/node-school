@@ -26,6 +26,7 @@
     "joi": "^9.1.0",
     "level": "^1.4.0",
     "level-sublevel": "^6.6.0",
+    "mongodb": "^2.2.10",
     "multilevel": "^7.3.0",
     "q-io": "^1.13.2",
     "quote-stream": "^1.0.2",
